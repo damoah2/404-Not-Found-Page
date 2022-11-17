@@ -39,12 +39,6 @@
 
 ![screenshot](https://raw.githubusercontent.com/damoah2/404-Not-Found-Page/main/Screenshot.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
 
 ### Built With
 
@@ -52,7 +46,6 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 - [HTML](https://www.w3schools.com/html/default.asp)
 - [CSS](https://www.w3schools.com/Css/)
-- [JavaScript](https://www.javascript.com/)
 
 ## Features
 
@@ -69,4 +62,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 - [Marked - a markdown parser](https://github.com/chjj/marked)
 
 ## Contact
-- GitHub [@your-username](https://github.com/damoah2)
+- GitHub [@damoah2](https://github.com/damoah2)
